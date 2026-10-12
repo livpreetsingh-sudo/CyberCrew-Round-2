@@ -1,0 +1,21 @@
+{
+  "name": "Endeavour International School",
+  "short_name": "Endeavour School",
+  "description": "Premier CISCE Affiliated Day School (Grades 1 to 12) in Bhopal, Madhya Pradesh",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0B182B",
+  "theme_color": "#0B182B",
+  "icons": [
+    {
+      "src": "./assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

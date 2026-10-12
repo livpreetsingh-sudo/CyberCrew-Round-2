@@ -1,0 +1,6 @@
+# Robots.txt for Endeavour International School, Bhopal
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://endeavourschool.edu/sitemap.xml
